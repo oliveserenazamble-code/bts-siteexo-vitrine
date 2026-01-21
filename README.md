@@ -4,8 +4,9 @@ Etudiant 1:Zamblé Sérena
 Etudiant 2 : Awidjolo Eunice
 Répartition: page d'acceuil Séréna
 page suivante :Eunice
-COMPTE RENDU
+
 LES COMMANDES GIT UTILISÉES
+
 git clone : qui permet de copier un projet distant en local
 git checkout : qui permet d'aller sur une branche
 git checkout -b : qui permet de créer de nouvelle branche
@@ -19,4 +20,6 @@ git pull : mettre à jour un projet déjà cloné
 
 
 Résolution du conflit
+
+Le conflit était du a l'uniformisation des css de chaque étudiant.
 Nous avons  pu résoudre le conflit en effacant les doublons et supprimant les lignes ajoutées par le serveur de github
